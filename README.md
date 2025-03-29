@@ -21,8 +21,8 @@ Resolutions Lab — это десктопное приложение для пр
 
 ## Как начать
 1. Скачайте последнюю версию приложения из раздела [Releases](https://github.com/ВАШ_ЛОГИН/ResolutionsLab/releases).
-   - Для Windows: `ResolutionsLab-vX.Y.Z.exe`
-   - ~~Для macOS: `ResolutionsLab-vX.Y.Z.dmg`~~ **(СКОРО)**
+   - Для Windows: `Resolutions Lab.exe`
+   - ~~Для macOS: `Resolutions Lab.dmg`~~ **(СКОРО)**
 2. Запустите файл:
    - На Windows: просто дважды щёлкните по `.exe`.
    - ~~На macOS: откройте `.dmg`, перетащите приложение в папку "Программы" и запустите.~~ **(СКОРО)**
